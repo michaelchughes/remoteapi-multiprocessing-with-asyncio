@@ -1,0 +1,15 @@
+name: remoteapi_env
+channels:
+ - defaults
+dependencies:
+ - python==3.8
+ - pip>=20.0
+ - numpy>=1.18
+ - pandas>=1.0
+ - jupyter>=1.0
+ - requests>=2.26.0
+ - pip:
+    - asyncio>=3.4
+    - aiohttp>=3.8
+    - watermark>=2.2
+
