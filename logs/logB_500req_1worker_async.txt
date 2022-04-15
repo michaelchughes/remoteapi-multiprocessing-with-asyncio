@@ -1,0 +1,89 @@
+11:13:27  INFO:[main] Done after 112.7 seconds: 411/500 requests succeeded with avg price $59.86
+
+11:11:34  INFO:[main] Performing 500 requests with 1 workers
+11:11:34  INFO:[main] Obeying rate limit of 22 requests in each 5.0 second window
+11:11:34  INFO:[main] Tasks queued!
+11:11:35  INFO:[WorkerAsync-1] started with limit of 22 requests per 5.0 sec
+11:11:36  INFO:[WorkerAsync-1]  handling 22 requests
+11:11:37  INFO:[WorkerAsync-1] completed 22 requests after 1.28 sec
+11:11:41  INFO:[WorkerAsync-1]  handling 22 requests
+11:11:42  INFO:[WorkerAsync-1] completed 22 requests after 1.22 sec
+11:11:46  INFO:[WorkerAsync-1]  handling 22 requests
+11:11:48  INFO:[WorkerAsync-1] completed 22 requests after 2.24 sec
+11:11:51  INFO:[WorkerAsync-1]  handling 22 requests
+11:11:52  INFO:[WorkerAsync-1] completed 22 requests after 1.37 sec
+11:11:56  INFO:[WorkerAsync-1]  handling 22 requests
+11:11:57  INFO:[WorkerAsync-1] completed 22 requests after 1.36 sec
+11:12:01  INFO:[WorkerAsync-1]  handling 22 requests
+11:12:02  INFO:[WorkerAsync-1] completed 22 requests after 1.40 sec
+11:12:06  INFO:[WorkerAsync-1]  handling 22 requests
+11:12:07  INFO:[WorkerAsync-1] completed 22 requests after 1.46 sec
+11:12:11  INFO:[WorkerAsync-1]  handling 22 requests
+11:12:12  INFO:[WorkerAsync-1] completed 22 requests after 1.24 sec
+11:12:16  INFO:[WorkerAsync-1]  handling 22 requests
+11:12:17  INFO:[WorkerAsync-1] completed 22 requests after 1.26 sec
+11:12:21  INFO:[WorkerAsync-1]  handling 22 requests
+11:12:22  INFO:[WorkerAsync-1] completed 22 requests after 1.22 sec
+11:12:26  INFO:[WorkerAsync-1]  handling 22 requests
+11:12:26  INFO:[WorkerAsync-1] completed 22 requests after 0.61 sec
+11:12:31  INFO:[WorkerAsync-1]  handling 22 requests
+11:12:32  INFO:[WorkerAsync-1] completed 22 requests after 1.26 sec
+11:12:36  INFO:[WorkerAsync-1]  handling 22 requests
+11:12:37  INFO:[WorkerAsync-1] completed 22 requests after 1.20 sec
+11:12:41  INFO:[WorkerAsync-1]  handling 22 requests
+11:12:42  INFO:[WorkerAsync-1] completed 22 requests after 1.18 sec
+11:12:46  INFO:[WorkerAsync-1]  handling 22 requests
+11:12:47  INFO:[WorkerAsync-1] completed 22 requests after 1.31 sec
+11:12:51  INFO:[WorkerAsync-1]  handling 22 requests
+11:12:52  INFO:[WorkerAsync-1] completed 22 requests after 1.37 sec
+11:12:56  INFO:[WorkerAsync-1]  handling 22 requests
+11:12:57  INFO:[WorkerAsync-1] completed 22 requests after 1.29 sec
+11:13:01  INFO:[WorkerAsync-1]  handling 22 requests
+11:13:02  INFO:[WorkerAsync-1] completed 22 requests after 1.26 sec
+11:13:06  INFO:[WorkerAsync-1]  handling 22 requests
+11:13:07  INFO:[WorkerAsync-1] completed 22 requests after 1.28 sec
+11:13:11  INFO:[WorkerAsync-1]  handling 22 requests
+11:13:12  INFO:[WorkerAsync-1] completed 22 requests after 1.34 sec
+11:13:16  INFO:[WorkerAsync-1]  handling 22 requests
+11:13:17  INFO:[WorkerAsync-1] completed 22 requests after 1.25 sec
+11:13:21  INFO:[WorkerAsync-1]  handling 22 requests
+11:13:22  INFO:[WorkerAsync-1] completed 22 requests after 1.29 sec
+11:13:26  INFO:[WorkerAsync-1]  handling 16 requests
+11:13:27  INFO:[WorkerAsync-1] completed 16 requests after 2.62 sec
+11:13:27  INFO:[main] Done after 112.7 seconds: 411/500 requests succeeded with avg price $59.86
+Analysing the 89 requests that failed...
+
+Frequency of Error Types
+----------------------
+   58   65% FAILED empty response
+   17   19%           FAILED 429
+   14   16%     FAILED key error
+Example errors
+--------------
+symbol               err_msg
+   UNT FAILED empty response
+  ISSC            FAILED 429
+   RHE            FAILED 429
+  GFED            FAILED 429
+   NXN            FAILED 429
+  CARO FAILED empty response
+   GDI FAILED empty response
+  USAT FAILED empty response
+   PIC FAILED empty response
+  PRGX FAILED empty response
+  CHAP FAILED empty response
+   SWP FAILED empty response
+   DTQ FAILED empty response
+   CSS FAILED empty response
+ MNCLU FAILED empty response
+...
+  BTT            FAILED 429
+ FLXN      FAILED key error
+ CTRC FAILED empty response
+  ODT FAILED empty response
+ SVBI FAILED empty response
+  VER            FAILED 429
+FLLCU FAILED empty response
+  SYX      FAILED key error
+ CRSA      FAILED key error
+ SCCB      FAILED key error

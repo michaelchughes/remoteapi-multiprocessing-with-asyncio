@@ -1,0 +1,88 @@
+11:17:25  INFO:[main] Done after 129.9 seconds: 424/500 requests succeeded with avg price $58.92
+
+11:15:15  INFO:[main] Performing 500 requests with 1 workers
+11:15:15  INFO:[main] Obeying rate limit of 22 requests in each 5.0 second window
+11:15:15  INFO:[main] Tasks queued!
+11:15:16  INFO:[WorkerSync-1] started with limit of 22 requests per 5.0 sec
+11:15:17  INFO:[WorkerSync-1]  handling 22 requests
+11:15:22  INFO:[WorkerSync-1] completed 22 requests after 5.53 sec
+11:15:22  INFO:[WorkerSync-1]  handling 22 requests
+11:15:28  INFO:[WorkerSync-1] completed 22 requests after 5.53 sec
+11:15:28  INFO:[WorkerSync-1]  handling 22 requests
+11:15:33  INFO:[WorkerSync-1] completed 22 requests after 5.46 sec
+11:15:33  INFO:[WorkerSync-1]  handling 22 requests
+11:15:39  INFO:[WorkerSync-1] completed 22 requests after 5.59 sec
+11:15:39  INFO:[WorkerSync-1]  handling 22 requests
+11:15:44  INFO:[WorkerSync-1] completed 22 requests after 5.54 sec
+11:15:44  INFO:[WorkerSync-1]  handling 22 requests
+11:15:50  INFO:[WorkerSync-1] completed 22 requests after 5.60 sec
+11:15:50  INFO:[WorkerSync-1]  handling 22 requests
+11:15:55  INFO:[WorkerSync-1] completed 22 requests after 5.55 sec
+11:15:55  INFO:[WorkerSync-1]  handling 22 requests
+11:16:00  INFO:[WorkerSync-1] completed 22 requests after 5.04 sec
+11:16:00  INFO:[WorkerSync-1]  handling 22 requests
+11:16:05  INFO:[WorkerSync-1] completed 22 requests after 4.19 sec
+11:16:05  INFO:[WorkerSync-1]  handling 22 requests
+11:16:10  INFO:[WorkerSync-1] completed 22 requests after 4.06 sec
+11:16:10  INFO:[WorkerSync-1]  handling 22 requests
+11:16:14  INFO:[WorkerSync-1] completed 22 requests after 3.99 sec
+11:16:15  INFO:[WorkerSync-1]  handling 22 requests
+11:16:20  INFO:[WorkerSync-1] completed 22 requests after 4.37 sec
+11:16:20  INFO:[WorkerSync-1]  handling 22 requests
+11:16:25  INFO:[WorkerSync-1] completed 22 requests after 4.28 sec
+11:16:25  INFO:[WorkerSync-1]  handling 22 requests
+11:16:29  INFO:[WorkerSync-1] completed 22 requests after 3.84 sec
+11:16:30  INFO:[WorkerSync-1]  handling 22 requests
+11:16:35  INFO:[WorkerSync-1] completed 22 requests after 4.22 sec
+11:16:36  INFO:[WorkerSync-1]  handling 22 requests
+11:16:40  INFO:[WorkerSync-1] completed 22 requests after 4.37 sec
+11:16:41  INFO:[WorkerSync-1]  handling 22 requests
+11:16:45  INFO:[WorkerSync-1] completed 22 requests after 4.52 sec
+11:16:46  INFO:[WorkerSync-1]  handling 22 requests
+11:16:50  INFO:[WorkerSync-1] completed 22 requests after 4.26 sec
+11:16:51  INFO:[WorkerSync-1]  handling 22 requests
+11:16:55  INFO:[WorkerSync-1] completed 22 requests after 4.11 sec
+11:16:56  INFO:[WorkerSync-1]  handling 22 requests
+11:17:00  INFO:[WorkerSync-1] completed 22 requests after 4.02 sec
+11:17:01  INFO:[WorkerSync-1]  handling 22 requests
+11:17:05  INFO:[WorkerSync-1] completed 22 requests after 4.23 sec
+11:17:06  INFO:[WorkerSync-1]  handling 22 requests
+11:17:19  INFO:[WorkerSync-1] completed 22 requests after 13.90 sec
+11:17:19  INFO:[WorkerSync-1]  handling 16 requests
+11:17:25  INFO:[WorkerSync-1] completed 16 requests after 7.10 sec
+11:17:25  INFO:[main] Done after 129.9 seconds: 424/500 requests succeeded with avg price $58.92
+Analysing the 76 requests that failed...
+
+Frequency of Error Types
+----------------------
+   61   80% FAILED empty response
+   15   20%     FAILED key error
+Example errors
+--------------
+symbol               err_msg
+   UNT FAILED empty response
+  GFED FAILED empty response
+  CARO FAILED empty response
+   PIC FAILED empty response
+  PRGX FAILED empty response
+  USAT FAILED empty response
+   GDI FAILED empty response
+  CHAP FAILED empty response
+   CSS FAILED empty response
+ MNCLU FAILED empty response
+   SWP FAILED empty response
+   DTQ FAILED empty response
+  DPHC FAILED empty response
+  BFRA FAILED empty response
+ NPAUU FAILED empty response
+...
+ ARQL FAILED empty response
+ FLXN      FAILED key error
+ CTRC FAILED empty response
+  ODT FAILED empty response
+ SVBI FAILED empty response
+  VER      FAILED key error
+ CRSA      FAILED key error
+  SYX      FAILED key error
+FLLCU FAILED empty response
+ SCCB      FAILED key error

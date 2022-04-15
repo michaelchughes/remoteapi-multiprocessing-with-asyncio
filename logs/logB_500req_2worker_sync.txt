@@ -1,0 +1,137 @@
+11:21:53  INFO:[main] Done after 113.1 seconds: 413/500 requests succeeded with avg price $58.07
+
+
+11:20:00  INFO:[main] Performing 500 requests with 2 workers
+11:20:00  INFO:[main] Obeying rate limit of 22 requests in each 5.0 second window
+11:20:00  INFO:[main] Tasks queued!
+11:20:01  INFO:[WorkerSync-2] started with limit of 11 requests per 5.0 sec
+11:20:01  INFO:[WorkerSync-1] started with limit of 11 requests per 5.0 sec
+11:20:02  INFO:[WorkerSync-1]  handling 11 requests
+11:20:02  INFO:[WorkerSync-2]  handling 11 requests
+11:20:04  INFO:[WorkerSync-1] completed 11 requests after 2.15 sec
+11:20:04  INFO:[WorkerSync-2] completed 11 requests after 2.21 sec
+11:20:07  INFO:[WorkerSync-1]  handling 11 requests
+11:20:07  INFO:[WorkerSync-2]  handling 11 requests
+11:20:09  INFO:[WorkerSync-2] completed 11 requests after 2.04 sec
+11:20:09  INFO:[WorkerSync-1] completed 11 requests after 2.21 sec
+11:20:12  INFO:[WorkerSync-2]  handling 11 requests
+11:20:12  INFO:[WorkerSync-1]  handling 11 requests
+11:20:14  INFO:[WorkerSync-1] completed 11 requests after 1.78 sec
+11:20:14  INFO:[WorkerSync-2] completed 11 requests after 2.04 sec
+11:20:17  INFO:[WorkerSync-1]  handling 11 requests
+11:20:17  INFO:[WorkerSync-2]  handling 11 requests
+11:20:19  INFO:[WorkerSync-2] completed 11 requests after 1.88 sec
+11:20:19  INFO:[WorkerSync-1] completed 11 requests after 1.95 sec
+11:20:22  INFO:[WorkerSync-2]  handling 11 requests
+11:20:22  INFO:[WorkerSync-1]  handling 11 requests
+11:20:24  INFO:[WorkerSync-2] completed 11 requests after 2.16 sec
+11:20:24  INFO:[WorkerSync-1] completed 11 requests after 2.19 sec
+11:20:27  INFO:[WorkerSync-2]  handling 11 requests
+11:20:27  INFO:[WorkerSync-1]  handling 11 requests
+11:20:29  INFO:[WorkerSync-1] completed 11 requests after 1.98 sec
+11:20:29  INFO:[WorkerSync-2] completed 11 requests after 2.09 sec
+11:20:32  INFO:[WorkerSync-1]  handling 11 requests
+11:20:32  INFO:[WorkerSync-2]  handling 11 requests
+11:20:34  INFO:[WorkerSync-1] completed 11 requests after 1.96 sec
+11:20:34  INFO:[WorkerSync-2] completed 11 requests after 2.02 sec
+11:20:37  INFO:[WorkerSync-2]  handling 11 requests
+11:20:37  INFO:[WorkerSync-1]  handling 11 requests
+11:20:39  INFO:[WorkerSync-2] completed 11 requests after 1.90 sec
+11:20:39  INFO:[WorkerSync-1] completed 11 requests after 1.99 sec
+11:20:42  INFO:[WorkerSync-2]  handling 11 requests
+11:20:42  INFO:[WorkerSync-1]  handling 11 requests
+11:20:44  INFO:[WorkerSync-1] completed 11 requests after 1.84 sec
+11:20:44  INFO:[WorkerSync-2] completed 11 requests after 2.01 sec
+11:20:47  INFO:[WorkerSync-1]  handling 11 requests
+11:20:47  INFO:[WorkerSync-2]  handling 11 requests
+11:20:49  INFO:[WorkerSync-1] completed 11 requests after 1.93 sec
+11:20:49  INFO:[WorkerSync-2] completed 11 requests after 2.00 sec
+11:20:52  INFO:[WorkerSync-2]  handling 11 requests
+11:20:52  INFO:[WorkerSync-1]  handling 11 requests
+11:20:54  INFO:[WorkerSync-1] completed 11 requests after 1.89 sec
+11:20:54  INFO:[WorkerSync-2] completed 11 requests after 2.07 sec
+11:20:57  INFO:[WorkerSync-1]  handling 11 requests
+11:20:57  INFO:[WorkerSync-2]  handling 11 requests
+11:20:59  INFO:[WorkerSync-2] completed 11 requests after 2.11 sec
+11:20:59  INFO:[WorkerSync-1] completed 11 requests after 2.16 sec
+11:21:02  INFO:[WorkerSync-1]  handling 11 requests
+11:21:02  INFO:[WorkerSync-2]  handling 11 requests
+11:21:04  INFO:[WorkerSync-2] completed 11 requests after 2.03 sec
+11:21:04  INFO:[WorkerSync-1] completed 11 requests after 2.04 sec
+11:21:07  INFO:[WorkerSync-1]  handling 11 requests
+11:21:07  INFO:[WorkerSync-2]  handling 11 requests
+11:21:09  INFO:[WorkerSync-1] completed 11 requests after 2.04 sec
+11:21:09  INFO:[WorkerSync-2] completed 11 requests after 2.22 sec
+11:21:12  INFO:[WorkerSync-2]  handling 11 requests
+11:21:12  INFO:[WorkerSync-1]  handling 11 requests
+11:21:14  INFO:[WorkerSync-1] completed 11 requests after 1.94 sec
+11:21:14  INFO:[WorkerSync-2] completed 11 requests after 2.03 sec
+11:21:17  INFO:[WorkerSync-1]  handling 11 requests
+11:21:17  INFO:[WorkerSync-2]  handling 11 requests
+11:21:19  INFO:[WorkerSync-2] completed 11 requests after 2.11 sec
+11:21:19  INFO:[WorkerSync-1] completed 11 requests after 2.34 sec
+11:21:22  INFO:[WorkerSync-1]  handling 11 requests
+11:21:22  INFO:[WorkerSync-2]  handling 11 requests
+11:21:24  INFO:[WorkerSync-1] completed 11 requests after 1.85 sec
+11:21:24  INFO:[WorkerSync-2] completed 11 requests after 2.34 sec
+11:21:27  INFO:[WorkerSync-2]  handling 11 requests
+11:21:27  INFO:[WorkerSync-1]  handling 11 requests
+11:21:29  INFO:[WorkerSync-1] completed 11 requests after 2.02 sec
+11:21:29  INFO:[WorkerSync-2] completed 11 requests after 2.23 sec
+11:21:32  INFO:[WorkerSync-1]  handling 11 requests
+11:21:32  INFO:[WorkerSync-2]  handling 11 requests
+11:21:34  INFO:[WorkerSync-2] completed 11 requests after 1.85 sec
+11:21:34  INFO:[WorkerSync-1] completed 11 requests after 2.00 sec
+11:21:37  INFO:[WorkerSync-1]  handling 11 requests
+11:21:37  INFO:[WorkerSync-2]  handling 11 requests
+11:21:39  INFO:[WorkerSync-2] completed 11 requests after 1.98 sec
+11:21:39  INFO:[WorkerSync-1] completed 11 requests after 2.36 sec
+11:21:42  INFO:[WorkerSync-1]  handling 11 requests
+11:21:42  INFO:[WorkerSync-2]  handling 11 requests
+11:21:44  INFO:[WorkerSync-2] completed 11 requests after 2.05 sec
+11:21:44  INFO:[WorkerSync-1] completed 11 requests after 2.07 sec
+11:21:47  INFO:[WorkerSync-1]  handling 11 requests
+11:21:47  INFO:[WorkerSync-2]  handling 11 requests
+11:21:49  INFO:[WorkerSync-1] completed 11 requests after 2.26 sec
+11:21:49  INFO:[WorkerSync-2] completed 11 requests after 2.39 sec
+11:21:52  INFO:[WorkerSync-1]  handling 8 requests
+11:21:52  INFO:[WorkerSync-2]  handling 8 requests
+11:21:53  INFO:[WorkerSync-2] completed 8 requests after 2.85 sec
+11:21:53  INFO:[WorkerSync-1] completed 8 requests after 3.00 sec
+11:21:53  INFO:[main] Done after 113.1 seconds: 413/500 requests succeeded with avg price $58.07
+Analysing the 87 requests that failed...
+
+Frequency of Error Types
+----------------------
+   60   69% FAILED empty response
+   15   17%     FAILED key error
+   12   14%           FAILED 429
+Example errors
+--------------
+symbol               err_msg
+   UNT FAILED empty response
+  GFED FAILED empty response
+  SITC            FAILED 429
+   BNY            FAILED 429
+  KNDI            FAILED 429
+  ISSC            FAILED 429
+  CARO FAILED empty response
+   PIC FAILED empty response
+  PRGX FAILED empty response
+  USAT FAILED empty response
+   GDI FAILED empty response
+  CHAP FAILED empty response
+   CSS FAILED empty response
+ MNCLU FAILED empty response
+   SWP FAILED empty response
+...
+ FLXN      FAILED key error
+ CTRC FAILED empty response
+  ODT FAILED empty response
+ SVBI FAILED empty response
+  VER      FAILED key error
+ CRSA      FAILED key error
+  SYX      FAILED key error
+  VGZ            FAILED 429
+FLLCU FAILED empty response
+ SCCB      FAILED key error

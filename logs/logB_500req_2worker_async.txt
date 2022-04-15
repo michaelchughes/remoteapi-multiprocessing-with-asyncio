@@ -1,0 +1,136 @@
+11:29:06  INFO:[main] Done after 112.7 seconds: 408/500 requests succeeded with avg price $59.02
+
+11:27:14  INFO:[main] Performing 500 requests with 2 workers
+11:27:14  INFO:[main] Obeying rate limit of 22 requests in each 5.0 second window
+11:27:14  INFO:[main] Tasks queued!
+11:27:14  INFO:[WorkerAsync-2] started with limit of 11 requests per 5.0 sec
+11:27:14  INFO:[WorkerAsync-1] started with limit of 11 requests per 5.0 sec
+11:27:15  INFO:[WorkerAsync-1]  handling 11 requests
+11:27:15  INFO:[WorkerAsync-2]  handling 11 requests
+11:27:16  INFO:[WorkerAsync-1] completed 11 requests after 0.55 sec
+11:27:16  INFO:[WorkerAsync-2] completed 11 requests after 1.27 sec
+11:27:20  INFO:[WorkerAsync-1]  handling 11 requests
+11:27:20  INFO:[WorkerAsync-2]  handling 11 requests
+11:27:21  INFO:[WorkerAsync-2] completed 11 requests after 1.29 sec
+11:27:22  INFO:[WorkerAsync-1] completed 11 requests after 2.23 sec
+11:27:25  INFO:[WorkerAsync-2]  handling 11 requests
+11:27:25  INFO:[WorkerAsync-1]  handling 11 requests
+11:27:26  INFO:[WorkerAsync-1] completed 11 requests after 1.28 sec
+11:27:27  INFO:[WorkerAsync-2] completed 11 requests after 2.35 sec
+11:27:30  INFO:[WorkerAsync-1]  handling 11 requests
+11:27:30  INFO:[WorkerAsync-2]  handling 11 requests
+11:27:31  INFO:[WorkerAsync-1] completed 11 requests after 1.32 sec
+11:27:32  INFO:[WorkerAsync-2] completed 11 requests after 1.42 sec
+11:27:35  INFO:[WorkerAsync-1]  handling 11 requests
+11:27:35  INFO:[WorkerAsync-2]  handling 11 requests
+11:27:36  INFO:[WorkerAsync-2] completed 11 requests after 1.29 sec
+11:27:36  INFO:[WorkerAsync-1] completed 11 requests after 1.29 sec
+11:27:40  INFO:[WorkerAsync-1]  handling 11 requests
+11:27:40  INFO:[WorkerAsync-2]  handling 11 requests
+11:27:41  INFO:[WorkerAsync-2] completed 11 requests after 1.27 sec
+11:27:41  INFO:[WorkerAsync-1] completed 11 requests after 1.29 sec
+11:27:45  INFO:[WorkerAsync-1]  handling 11 requests
+11:27:45  INFO:[WorkerAsync-2]  handling 11 requests
+11:27:46  INFO:[WorkerAsync-2] completed 11 requests after 1.31 sec
+11:27:46  INFO:[WorkerAsync-1] completed 11 requests after 1.32 sec
+11:27:50  INFO:[WorkerAsync-1]  handling 11 requests
+11:27:50  INFO:[WorkerAsync-2]  handling 11 requests
+11:27:50  INFO:[WorkerAsync-1] completed 11 requests after 0.33 sec
+11:27:51  INFO:[WorkerAsync-2] completed 11 requests after 1.27 sec
+11:27:55  INFO:[WorkerAsync-2]  handling 11 requests
+11:27:55  INFO:[WorkerAsync-1]  handling 11 requests
+11:27:56  INFO:[WorkerAsync-2] completed 11 requests after 1.25 sec
+11:27:57  INFO:[WorkerAsync-1] completed 11 requests after 1.36 sec
+11:28:00  INFO:[WorkerAsync-2]  handling 11 requests
+11:28:00  INFO:[WorkerAsync-1]  handling 11 requests
+11:28:01  INFO:[WorkerAsync-1] completed 11 requests after 1.25 sec
+11:28:01  INFO:[WorkerAsync-2] completed 11 requests after 1.32 sec
+11:28:05  INFO:[WorkerAsync-1]  handling 11 requests
+11:28:05  INFO:[WorkerAsync-2]  handling 11 requests
+11:28:06  INFO:[WorkerAsync-1] completed 11 requests after 1.25 sec
+11:28:06  INFO:[WorkerAsync-2] completed 11 requests after 1.28 sec
+11:28:10  INFO:[WorkerAsync-2]  handling 11 requests
+11:28:10  INFO:[WorkerAsync-1]  handling 11 requests
+11:28:11  INFO:[WorkerAsync-2] completed 11 requests after 1.29 sec
+11:28:11  INFO:[WorkerAsync-1] completed 11 requests after 1.29 sec
+11:28:15  INFO:[WorkerAsync-1]  handling 11 requests
+11:28:15  INFO:[WorkerAsync-2]  handling 11 requests
+11:28:16  INFO:[WorkerAsync-1] completed 11 requests after 1.29 sec
+11:28:16  INFO:[WorkerAsync-2] completed 11 requests after 1.32 sec
+11:28:20  INFO:[WorkerAsync-2]  handling 11 requests
+11:28:20  INFO:[WorkerAsync-1]  handling 11 requests
+11:28:21  INFO:[WorkerAsync-2] completed 11 requests after 1.24 sec
+11:28:21  INFO:[WorkerAsync-1] completed 11 requests after 1.30 sec
+11:28:25  INFO:[WorkerAsync-1]  handling 11 requests
+11:28:25  INFO:[WorkerAsync-2]  handling 11 requests
+11:28:26  INFO:[WorkerAsync-1] completed 11 requests after 1.29 sec
+11:28:26  INFO:[WorkerAsync-2] completed 11 requests after 1.33 sec
+11:28:30  INFO:[WorkerAsync-2]  handling 11 requests
+11:28:30  INFO:[WorkerAsync-1]  handling 11 requests
+11:28:31  INFO:[WorkerAsync-1] completed 11 requests after 1.25 sec
+11:28:32  INFO:[WorkerAsync-2] completed 11 requests after 1.48 sec
+11:28:35  INFO:[WorkerAsync-2]  handling 11 requests
+11:28:35  INFO:[WorkerAsync-1]  handling 11 requests
+11:28:36  INFO:[WorkerAsync-2] completed 11 requests after 1.21 sec
+11:28:36  INFO:[WorkerAsync-1] completed 11 requests after 1.26 sec
+11:28:40  INFO:[WorkerAsync-2]  handling 11 requests
+11:28:40  INFO:[WorkerAsync-1]  handling 11 requests
+11:28:41  INFO:[WorkerAsync-2] completed 11 requests after 1.24 sec
+11:28:41  INFO:[WorkerAsync-1] completed 11 requests after 1.29 sec
+11:28:45  INFO:[WorkerAsync-1]  handling 11 requests
+11:28:45  INFO:[WorkerAsync-2]  handling 11 requests
+11:28:46  INFO:[WorkerAsync-2] completed 11 requests after 1.19 sec
+11:28:46  INFO:[WorkerAsync-1] completed 11 requests after 1.24 sec
+11:28:50  INFO:[WorkerAsync-1]  handling 11 requests
+11:28:50  INFO:[WorkerAsync-2]  handling 11 requests
+11:28:51  INFO:[WorkerAsync-1] completed 11 requests after 1.18 sec
+11:28:51  INFO:[WorkerAsync-2] completed 11 requests after 1.25 sec
+11:28:55  INFO:[WorkerAsync-1]  handling 11 requests
+11:28:55  INFO:[WorkerAsync-2]  handling 11 requests
+11:28:56  INFO:[WorkerAsync-2] completed 11 requests after 1.18 sec
+11:28:56  INFO:[WorkerAsync-1] completed 11 requests after 1.23 sec
+11:29:00  INFO:[WorkerAsync-2]  handling 11 requests
+11:29:00  INFO:[WorkerAsync-1]  handling 11 requests
+11:29:01  INFO:[WorkerAsync-1] completed 11 requests after 1.20 sec
+11:29:02  INFO:[WorkerAsync-2] completed 11 requests after 1.44 sec
+11:29:05  INFO:[WorkerAsync-1]  handling 8 requests
+11:29:05  INFO:[WorkerAsync-2]  handling 8 requests
+11:29:06  INFO:[WorkerAsync-2] completed 8 requests after 1.73 sec
+11:29:06  INFO:[main] Done after 112.7 seconds: 408/500 requests succeeded with avg price $59.02
+Analysing the 92 requests that failed...
+
+Frequency of Error Types
+----------------------
+   55   60% FAILED empty response
+   22   24%           FAILED 429
+   15   16%     FAILED key error
+Example errors
+--------------
+symbol               err_msg
+   UNT FAILED empty response
+  GFED FAILED empty response
+   PSM            FAILED 429
+   EEX            FAILED 429
+  LECO            FAILED 429
+  CARO FAILED empty response
+  TRNS            FAILED 429
+   GDI FAILED empty response
+  PRGX FAILED empty response
+   PIC FAILED empty response
+  USAT FAILED empty response
+   CSS FAILED empty response
+ MNCLU FAILED empty response
+  CHAP FAILED empty response
+   DTQ FAILED empty response
+...
+  ODT FAILED empty response
+ SVBI FAILED empty response
+  VER      FAILED key error
+ AMRS            FAILED 429
+  FCN            FAILED 429
+  SYX      FAILED key error
+FLLCU FAILED empty response
+ VICR            FAILED 429
+ CRSA      FAILED key error
+ SCCB      FAILED key error
+11:29:06  INFO:[WorkerAsync-1] completed 8 requests after 2.56 sec

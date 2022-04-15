@@ -1,0 +1,228 @@
+11:52:49  INFO:[main] Performing 500 requests with 4 workers
+11:52:49  INFO:[main] Obeying rate limit of 22 requests in each 5.0 second window
+11:52:49  INFO:[main] Tasks queued!
+11:52:49  INFO:[WorkerAsync-3] started with limit of 5 requests per 5.0 sec
+11:52:49  INFO:[WorkerAsync-1] started with limit of 6 requests per 5.0 sec
+11:52:49  INFO:[WorkerAsync-2] started with limit of 6 requests per 5.0 sec
+11:52:49  INFO:[WorkerAsync-4] started with limit of 5 requests per 5.0 sec
+11:52:50  INFO:[WorkerAsync-3]  handling 5 requests
+11:52:50  INFO:[WorkerAsync-1]  handling 6 requests
+11:52:50  INFO:[WorkerAsync-2]  handling 6 requests
+11:52:50  INFO:[WorkerAsync-4]  handling 5 requests
+11:52:51  INFO:[WorkerAsync-3] completed 5 requests after 0.47 sec
+11:52:51  INFO:[WorkerAsync-4] completed 5 requests after 0.51 sec
+11:52:51  INFO:[WorkerAsync-1] completed 6 requests after 0.52 sec
+11:52:52  INFO:[WorkerAsync-2] completed 6 requests after 1.23 sec
+11:52:55  INFO:[WorkerAsync-3]  handling 5 requests
+11:52:55  INFO:[WorkerAsync-1]  handling 6 requests
+11:52:55  INFO:[WorkerAsync-2]  handling 6 requests
+11:52:55  INFO:[WorkerAsync-4]  handling 5 requests
+11:52:56  INFO:[WorkerAsync-4] completed 5 requests after 0.25 sec
+11:52:56  INFO:[WorkerAsync-3] completed 5 requests after 0.30 sec
+11:52:57  INFO:[WorkerAsync-2] completed 6 requests after 1.15 sec
+11:52:57  INFO:[WorkerAsync-1] completed 6 requests after 1.19 sec
+11:53:00  INFO:[WorkerAsync-3]  handling 5 requests
+11:53:00  INFO:[WorkerAsync-1]  handling 6 requests
+11:53:00  INFO:[WorkerAsync-2]  handling 6 requests
+11:53:00  INFO:[WorkerAsync-4]  handling 5 requests
+11:53:01  INFO:[WorkerAsync-3] completed 5 requests after 0.39 sec
+11:53:02  INFO:[WorkerAsync-4] completed 5 requests after 1.21 sec
+11:53:02  INFO:[WorkerAsync-2] completed 6 requests after 1.24 sec
+11:53:02  INFO:[WorkerAsync-1] completed 6 requests after 1.24 sec
+11:53:05  INFO:[WorkerAsync-3]  handling 5 requests
+11:53:05  INFO:[WorkerAsync-1]  handling 6 requests
+11:53:05  INFO:[WorkerAsync-2]  handling 6 requests
+11:53:05  INFO:[WorkerAsync-4]  handling 5 requests
+11:53:07  INFO:[WorkerAsync-4] completed 5 requests after 1.18 sec
+11:53:07  INFO:[WorkerAsync-2] completed 6 requests after 1.19 sec
+11:53:07  INFO:[WorkerAsync-3] completed 5 requests after 1.22 sec
+11:53:07  INFO:[WorkerAsync-1] completed 6 requests after 1.23 sec
+11:53:10  INFO:[WorkerAsync-3]  handling 5 requests
+11:53:10  INFO:[WorkerAsync-1]  handling 6 requests
+11:53:10  INFO:[WorkerAsync-2]  handling 6 requests
+11:53:10  INFO:[WorkerAsync-4]  handling 5 requests
+11:53:12  INFO:[WorkerAsync-4] completed 5 requests after 1.23 sec
+11:53:12  INFO:[WorkerAsync-1] completed 6 requests after 1.24 sec
+11:53:12  INFO:[WorkerAsync-2] completed 6 requests after 1.24 sec
+11:53:12  INFO:[WorkerAsync-3] completed 5 requests after 1.26 sec
+11:53:15  INFO:[WorkerAsync-3]  handling 5 requests
+11:53:15  INFO:[WorkerAsync-1]  handling 6 requests
+11:53:15  INFO:[WorkerAsync-2]  handling 6 requests
+11:53:15  INFO:[WorkerAsync-4]  handling 5 requests
+11:53:16  INFO:[WorkerAsync-2] completed 6 requests after 0.22 sec
+11:53:16  INFO:[WorkerAsync-3] completed 5 requests after 0.46 sec
+11:53:17  INFO:[WorkerAsync-4] completed 5 requests after 1.18 sec
+11:53:17  INFO:[WorkerAsync-1] completed 6 requests after 1.22 sec
+11:53:20  INFO:[WorkerAsync-3]  handling 5 requests
+11:53:20  INFO:[WorkerAsync-1]  handling 6 requests
+11:53:20  INFO:[WorkerAsync-2]  handling 6 requests
+11:53:20  INFO:[WorkerAsync-4]  handling 5 requests
+11:53:21  INFO:[WorkerAsync-3] completed 5 requests after 0.36 sec
+11:53:21  INFO:[WorkerAsync-4] completed 5 requests after 0.36 sec
+11:53:22  INFO:[WorkerAsync-1] completed 6 requests after 1.19 sec
+11:53:22  INFO:[WorkerAsync-2] completed 6 requests after 1.23 sec
+11:53:25  INFO:[WorkerAsync-3]  handling 5 requests
+11:53:25  INFO:[WorkerAsync-1]  handling 6 requests
+11:53:25  INFO:[WorkerAsync-2]  handling 6 requests
+11:53:25  INFO:[WorkerAsync-4]  handling 5 requests
+11:53:26  INFO:[WorkerAsync-4] completed 5 requests after 0.42 sec
+11:53:26  INFO:[WorkerAsync-2] completed 6 requests after 0.68 sec
+11:53:27  INFO:[WorkerAsync-3] completed 5 requests after 1.18 sec
+11:53:27  INFO:[WorkerAsync-1] completed 6 requests after 1.22 sec
+11:53:30  INFO:[WorkerAsync-3]  handling 5 requests
+11:53:30  INFO:[WorkerAsync-1]  handling 6 requests
+11:53:30  INFO:[WorkerAsync-2]  handling 6 requests
+11:53:30  INFO:[WorkerAsync-4]  handling 5 requests
+11:53:31  INFO:[WorkerAsync-4] completed 5 requests after 0.41 sec
+11:53:31  INFO:[WorkerAsync-1] completed 6 requests after 0.42 sec
+11:53:32  INFO:[WorkerAsync-3] completed 5 requests after 1.23 sec
+11:53:32  INFO:[WorkerAsync-2] completed 6 requests after 1.24 sec
+11:53:35  INFO:[WorkerAsync-3]  handling 5 requests
+11:53:35  INFO:[WorkerAsync-1]  handling 6 requests
+11:53:35  INFO:[WorkerAsync-2]  handling 6 requests
+11:53:35  INFO:[WorkerAsync-4]  handling 5 requests
+11:53:36  INFO:[WorkerAsync-3] completed 5 requests after 0.36 sec
+11:53:37  INFO:[WorkerAsync-4] completed 5 requests after 1.19 sec
+11:53:37  INFO:[WorkerAsync-2] completed 6 requests after 1.28 sec
+11:53:37  INFO:[WorkerAsync-1] completed 6 requests after 1.30 sec
+11:53:40  INFO:[WorkerAsync-1]  handling 6 requests
+11:53:40  INFO:[WorkerAsync-3]  handling 5 requests
+11:53:40  INFO:[WorkerAsync-2]  handling 6 requests
+11:53:40  INFO:[WorkerAsync-4]  handling 5 requests
+11:53:41  INFO:[WorkerAsync-1] completed 6 requests after 0.34 sec
+11:53:41  INFO:[WorkerAsync-4] completed 5 requests after 0.50 sec
+11:53:42  INFO:[WorkerAsync-3] completed 5 requests after 1.13 sec
+11:53:42  INFO:[WorkerAsync-2] completed 6 requests after 1.20 sec
+11:53:45  INFO:[WorkerAsync-1]  handling 6 requests
+11:53:45  INFO:[WorkerAsync-3]  handling 5 requests
+11:53:45  INFO:[WorkerAsync-2]  handling 6 requests
+11:53:45  INFO:[WorkerAsync-4]  handling 5 requests
+11:53:47  INFO:[WorkerAsync-2] completed 6 requests after 1.19 sec
+11:53:47  INFO:[WorkerAsync-1] completed 6 requests after 1.35 sec
+11:53:47  INFO:[WorkerAsync-4] completed 5 requests after 1.39 sec
+11:53:47  INFO:[WorkerAsync-3] completed 5 requests after 1.42 sec
+11:53:50  INFO:[WorkerAsync-1]  handling 6 requests
+11:53:50  INFO:[WorkerAsync-3]  handling 5 requests
+11:53:50  INFO:[WorkerAsync-2]  handling 6 requests
+11:53:50  INFO:[WorkerAsync-4]  handling 5 requests
+11:53:52  INFO:[WorkerAsync-4] completed 5 requests after 1.14 sec
+11:53:52  INFO:[WorkerAsync-2] completed 6 requests after 1.19 sec
+11:53:52  INFO:[WorkerAsync-3] completed 5 requests after 1.22 sec
+11:53:52  INFO:[WorkerAsync-1] completed 6 requests after 1.26 sec
+11:53:55  INFO:[WorkerAsync-3]  handling 5 requests
+11:53:55  INFO:[WorkerAsync-1]  handling 6 requests
+11:53:55  INFO:[WorkerAsync-2]  handling 6 requests
+11:53:55  INFO:[WorkerAsync-4]  handling 5 requests
+11:53:57  INFO:[WorkerAsync-3] completed 5 requests after 1.22 sec
+11:53:57  INFO:[WorkerAsync-4] completed 5 requests after 1.22 sec
+11:53:57  INFO:[WorkerAsync-1] completed 6 requests after 1.25 sec
+11:53:57  INFO:[WorkerAsync-2] completed 6 requests after 1.40 sec
+11:54:00  INFO:[WorkerAsync-1]  handling 6 requests
+11:54:00  INFO:[WorkerAsync-3]  handling 5 requests
+11:54:00  INFO:[WorkerAsync-2]  handling 6 requests
+11:54:00  INFO:[WorkerAsync-4]  handling 5 requests
+11:54:01  INFO:[WorkerAsync-1] completed 6 requests after 0.30 sec
+11:54:01  INFO:[WorkerAsync-3] completed 5 requests after 0.34 sec
+11:54:02  INFO:[WorkerAsync-4] completed 5 requests after 1.15 sec
+11:54:02  INFO:[WorkerAsync-2] completed 6 requests after 1.25 sec
+11:54:05  INFO:[WorkerAsync-1]  handling 6 requests
+11:54:05  INFO:[WorkerAsync-3]  handling 5 requests
+11:54:05  INFO:[WorkerAsync-2]  handling 6 requests
+11:54:05  INFO:[WorkerAsync-4]  handling 5 requests
+11:54:06  INFO:[WorkerAsync-1] completed 6 requests after 0.41 sec
+11:54:07  INFO:[WorkerAsync-4] completed 5 requests after 1.19 sec
+11:54:07  INFO:[WorkerAsync-3] completed 5 requests after 1.23 sec
+11:54:07  INFO:[WorkerAsync-2] completed 6 requests after 1.23 sec
+11:54:10  INFO:[WorkerAsync-3]  handling 5 requests
+11:54:10  INFO:[WorkerAsync-1]  handling 6 requests
+11:54:10  INFO:[WorkerAsync-2]  handling 6 requests
+11:54:10  INFO:[WorkerAsync-4]  handling 5 requests
+11:54:11  INFO:[WorkerAsync-3] completed 5 requests after 0.33 sec
+11:54:11  INFO:[WorkerAsync-4] completed 5 requests after 0.50 sec
+11:54:11  INFO:[WorkerAsync-2] completed 6 requests after 0.56 sec
+11:54:12  INFO:[WorkerAsync-1] completed 6 requests after 1.27 sec
+11:54:15  INFO:[WorkerAsync-3]  handling 5 requests
+11:54:15  INFO:[WorkerAsync-1]  handling 6 requests
+11:54:15  INFO:[WorkerAsync-2]  handling 6 requests
+11:54:15  INFO:[WorkerAsync-4]  handling 5 requests
+11:54:16  INFO:[WorkerAsync-1] completed 6 requests after 0.45 sec
+11:54:17  INFO:[WorkerAsync-2] completed 6 requests after 1.25 sec
+11:54:17  INFO:[WorkerAsync-4] completed 5 requests after 1.25 sec
+11:54:17  INFO:[WorkerAsync-3] completed 5 requests after 1.28 sec
+11:54:20  INFO:[WorkerAsync-1]  handling 6 requests
+11:54:20  INFO:[WorkerAsync-3]  handling 5 requests
+11:54:20  INFO:[WorkerAsync-2]  handling 6 requests
+11:54:20  INFO:[WorkerAsync-4]  handling 5 requests
+11:54:21  INFO:[WorkerAsync-1] completed 6 requests after 0.32 sec
+11:54:21  INFO:[WorkerAsync-2] completed 6 requests after 0.54 sec
+11:54:22  INFO:[WorkerAsync-4] completed 5 requests after 1.23 sec
+11:54:22  INFO:[WorkerAsync-3] completed 5 requests after 1.25 sec
+11:54:25  INFO:[WorkerAsync-1]  handling 6 requests
+11:54:25  INFO:[WorkerAsync-3]  handling 5 requests
+11:54:25  INFO:[WorkerAsync-2]  handling 6 requests
+11:54:25  INFO:[WorkerAsync-4]  handling 5 requests
+11:54:27  INFO:[WorkerAsync-3] completed 5 requests after 1.26 sec
+11:54:27  INFO:[WorkerAsync-4] completed 5 requests after 1.25 sec
+11:54:27  INFO:[WorkerAsync-2] completed 6 requests after 1.27 sec
+11:54:27  INFO:[WorkerAsync-1] completed 6 requests after 1.28 sec
+11:54:30  INFO:[WorkerAsync-3]  handling 5 requests
+11:54:30  INFO:[WorkerAsync-1]  handling 6 requests
+11:54:30  INFO:[WorkerAsync-2]  handling 6 requests
+11:54:30  INFO:[WorkerAsync-4]  handling 5 requests
+11:54:31  INFO:[WorkerAsync-4] completed 5 requests after 0.29 sec
+11:54:31  INFO:[WorkerAsync-3] completed 5 requests after 0.55 sec
+11:54:32  INFO:[WorkerAsync-1] completed 6 requests after 1.29 sec
+11:54:32  INFO:[WorkerAsync-2] completed 6 requests after 1.30 sec
+11:54:35  INFO:[WorkerAsync-1]  handling 4 requests
+11:54:35  INFO:[WorkerAsync-3]  handling 5 requests
+11:54:36  INFO:[WorkerAsync-3] completed 5 requests after 0.27 sec
+11:54:37  INFO:[WorkerAsync-1] completed 4 requests after 2.97 sec
+11:54:40  INFO:[WorkerAsync-3]  handling 5 requests
+11:54:41  INFO:[WorkerAsync-3] completed 5 requests after 0.27 sec
+11:54:45  INFO:[WorkerAsync-3]  handling 5 requests
+11:54:46  INFO:[WorkerAsync-3] completed 5 requests after 0.32 sec
+11:54:50  INFO:[WorkerAsync-3]  handling 5 requests
+11:54:51  INFO:[WorkerAsync-3] completed 5 requests after 0.30 sec
+11:54:55  INFO:[WorkerAsync-3]  handling 5 requests
+11:54:56  INFO:[WorkerAsync-3] completed 5 requests after 0.26 sec
+11:55:00  INFO:[WorkerAsync-3]  handling 5 requests
+11:55:01  INFO:[WorkerAsync-3] completed 5 requests after 0.41 sec
+11:55:05  INFO:[WorkerAsync-3]  handling 4 requests
+11:55:06  INFO:[WorkerAsync-3] completed 4 requests after 1.32 sec
+11:55:06  INFO:[main] Done after 136.8 seconds: 404/500 requests succeeded with avg price $59.19
+Analysing the 96 requests that failed...
+
+Frequency of Error Types
+----------------------
+   57   59% FAILED empty response
+   24   25%           FAILED 429
+   15   16%     FAILED key error
+Example errors
+--------------
+symbol               err_msg
+  GFED FAILED empty response
+  CARO            FAILED 429
+   EGP            FAILED 429
+   UNT FAILED empty response
+   ERF            FAILED 429
+  VONG            FAILED 429
+  EWJE            FAILED 429
+  PRGO            FAILED 429
+  SHSP FAILED empty response
+  CHAP FAILED empty response
+   PIC FAILED empty response
+   CHY            FAILED 429
+ MNCLU FAILED empty response
+   SWP            FAILED 429
+  PRGX FAILED empty response
+...
+ ECOR            FAILED 429
+ TSRI            FAILED 429
+ DCIX FAILED empty response
+  VER      FAILED key error
+FLLCU FAILED empty response
+IBKCO FAILED empty response
+  SYX      FAILED key error
+ EGOV      FAILED key error
+ SCCB      FAILED key error
+ ARQL FAILED empty response
